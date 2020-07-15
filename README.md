@@ -1,6 +1,6 @@
-# Pokedex Project
+# <img src="https://user-images.githubusercontent.com/25181262/87576055-3177e300-c6a7-11ea-979a-705d04220f43.png" width=100px height=80px> Pokedex Project
 
-<img src="https://user-images.githubusercontent.com/25181262/87576055-3177e300-c6a7-11ea-979a-705d04220f43.png" width=100px height=80px> Projeto para criação de uma pokedex com Elasticsearch + Kibana Canvas + API Pokemon e Python! 
+Projeto para criação de uma pokedex com Elasticsearch + Kibana Canvas + API Pokemon e Python! 
 
 
 ## Ao final você terá essa podex super legal no Canvas!!
