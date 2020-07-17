@@ -17,4 +17,4 @@ $ python makePokex.py
 ```
 Você terá que informar a quantidade de Pokemons, hoje a API está com **807** e também informar o endereço do seu elasticsearch (Apenas o IP!!)
 
-~~LINK VIDEO YOUTUBE~~ <--- Acesse o link para aprender a criar o Canvas no Kibana, lá será bem mais simples de acompanhar!
+https://youtu.be/Up4cE47zkTA <--- Acesse o link para aprender a criar o Canvas no Kibana, lá será bem mais simples de acompanhar!
